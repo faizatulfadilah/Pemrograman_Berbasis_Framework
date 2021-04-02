@@ -1,0 +1,78 @@
+{
+    "kulkas": [
+      {
+        "id": 1,
+        "nama": "Panasonic NR-AF17AN-SS",
+        "harga": 1700000,
+        "gambar": "https://cf.shopee.co.id/file/dfa6a65b41300df64b7fb70056600d07",
+        "stok": 5
+      },
+      {
+        "id": 2,
+        "nama": "Polytron PR16BGR",
+        "harga": 1800000,
+        "gambar": "https://cs1.alfacart.com/product%2F10%2F_ImageBN07Mar17a_A05750810436_0.jpg",
+        "stok": 5
+      },
+      {
+        "id": 3,
+        "nama": "Sharp Shine Series SJ-195MD-SR/SG",
+        "harga": 2500000,
+        "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/refrigerators-freezers/Sharp_SJ_195MD_SRSG/Sharp_SJ_195MD_SRSG_L_1.jpg",
+        "stok": 5
+      },
+      {
+        "id": 4,
+        "nama": "LG GN-B185SQBB Silver",
+        "harga": 2800000,
+        "gambar": "https://i.pinimg.com/236x/e9/a1/00/e9a100232b427c20bd468cc6e18822c8.jpg",
+        "stok": 5
+      },
+      {
+        "id": 5,
+        "nama": "Toshiba GR-WG66ED",
+        "harga": 3900000,
+        "gambar": "http://www.gwgrill.com/wp-content/uploads/2019/10/kulkas-terbaik-sesuai-kebutuhan-2-300x232.jpg",
+        "stok": 5
+      },
+      {
+        "id": 6,
+        "nama": "Samsung RT46 Twin Cooling Plus",
+        "harga": 5600000,
+        "gambar": "https://images.samsung.com/is/image/samsung/id-top-mount-freezer-rt446k6231bs-rt46k6231bs-se-001-front-black?$720_576_PNG$",
+        "stok": 5
+      },
+      {
+        "id": 7,
+        "nama": "Modena Centurion – RF 2241 S",
+        "harga": 6500000,
+        "gambar": "https://media.pricebook.co.id/images/product/L/72227_L_1.jpg",
+        "stok": 5
+      },
+      {
+        "id": 8,
+        "nama": "Mitsubishi MR-F62E",
+        "harga": 8000000,
+        "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/refrigerators-freezers/MITSUBISHI_MRF62E/MITSUBISHI_MRF62E_L_1.jpg",
+        "stok": 5
+      },
+      {
+        "id": 9,
+        "nama": "Electrolux EME3500MG",
+        "harga": 8600000,
+        "gambar": "https://images.duniamasak.com/images/13956/kulkas-inverter-multi-pintu-electrolux-eme3500mg-24576_521.jpeg",
+        "stok": 2
+      },
+      {
+        "id": 10,
+        "nama": "Hitachi R-W70PGD3",
+        "harga": 1000000,
+        "gambar": "https://www.homeappliances.hitachi.com/products/refrigerators/item/IDR-W70PGD3_01.jpg",
+        "stok": 5
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }

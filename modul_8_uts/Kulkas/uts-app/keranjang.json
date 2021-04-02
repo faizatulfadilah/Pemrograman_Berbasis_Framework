@@ -1,0 +1,28 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Panasonic NR-AF17AN-SS",
+      "harga": 1700000,
+      "qty": 2
+    },
+    {
+      "id": 2,
+      "nama": "Polytron PR16BGR",
+      "harga": 1800000,
+      "stok": 2,
+      "qty": 8
+    },
+    {
+      "id": 4,
+      "nama": "LG GN-B185SQBB Silver",
+      "harga": 2800000,
+      "stok": 2,
+      "qty": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
